@@ -11,4 +11,3 @@ function palindrome(str) {
   
   
   palindrome("eye");
-  
